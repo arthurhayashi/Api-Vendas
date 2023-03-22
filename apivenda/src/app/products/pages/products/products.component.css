@@ -1,0 +1,29 @@
+#form-product{
+    margin: 1rem;
+    background-color:  #b19cd9;
+    border-radius: 1rem;
+}
+.label-product{
+    margin-left: 4rem;
+}
+.input-product{
+    margin-top: 0.5rem;
+    border-radius: 1rem;
+}
+#botton-product-cadastrar{
+    margin-left: 18rem;
+    border-radius: 1rem;
+    background-color: darkcyan;
+}
+#show-products{
+    background-color:  #dfd7dd;
+    border-radius: 1rem;
+}
+#product{
+    
+    background-color: #7cc4ba;
+    border-radius: 1rem;
+}
+.info-product{
+    margin: 2rem;
+}
